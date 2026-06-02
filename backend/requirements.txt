@@ -21,5 +21,6 @@ typing_extensions==4.15.0
 urllib3==2.7.0
 websockets==16.0
 pydub==0.25.1
+audioop-lts==0.2.1
 uvicorn==0.34.3
 aiofiles==24.1.0

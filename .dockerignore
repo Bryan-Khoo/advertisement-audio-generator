@@ -1,0 +1,7 @@
+.venv/
+**/__pycache__/
+**/*.pyc
+frontend/pages/main.js
+frontend/pages/tsconfig.tsbuildinfo
+.git/
+.env
